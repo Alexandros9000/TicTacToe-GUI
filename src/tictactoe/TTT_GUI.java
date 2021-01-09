@@ -28,7 +28,7 @@ public class TTT_GUI {
 		frame.setSize(600, 600);
 		panel.setLayout(layout);
 
-		// make the tictactoeGUI.buttons and give every tictactoeGUI.button a different
+		// make the TictactoeButton.buttons and give every TictactoeButton.button a different
 		// value and position
 		// add them to the panel
 		// add the actionlistener
